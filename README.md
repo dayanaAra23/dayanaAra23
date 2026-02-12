@@ -39,7 +39,15 @@ Here I share QA tips and also examples of test automation code and best practice
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 
+## 📌 QA Shots content
+**Quality Culture**
+- 🔍 [Bug Review - Let's learn with bugs](https://github.com/dayanaAra23/QAShots/blob/main/QAShots/bugReviewMEeting/README.md)
+- 🔍 [TestFest - Increasing collaboration and knowledge by testing](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/testFest)
 
-💡 Passionate about quality, learning, and helping teams build better software!
+**Exploratory testing**
+- 🔍 [Exploratory API Validation](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/apiValidation)
 
-👉 Reach me out on Linkedin
+**Test Automation**
+- 🔍 [Test Automation - Rethinking Our Test Automation Strategy for a Legacy and Crucial Software](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/replacingIneficientSuite)
+
+👉 [Reach me out on Linkedin](https://www.linkedin.com/in/dayana-araujo-0b84b550/)
