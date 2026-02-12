@@ -4,7 +4,8 @@ Welcome to my GitHub profile!
 Here I share QA tips and also examples of test automation code and best practices  
   [QAShots](https://github.com/dayanaAra23/QAShots)
 
-🌟 Frameworks, technologies and Tools:
+🌟 # Frameworks, technologies and tools:
+
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
@@ -15,6 +16,7 @@ Here I share QA tips and also examples of test automation code and best practice
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+![Copilot](https://img.shields.io/badge/-Copilot-000000?logo=githubcopilot&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-TestRail-00A82D?logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
