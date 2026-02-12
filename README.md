@@ -11,9 +11,9 @@ Here I share QA tips and also examples of test automation code and best practice
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/-RestAssured-6DB33F?logoColor=white)
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-TestRail-00A82D?logoColor=white)
@@ -39,3 +39,5 @@ Here I share QA tips and also examples of test automation code and best practice
 
 
 💡 Passionate about quality, learning, and helping teams build better software!
+
+👉 Reach me out on Linkedin
