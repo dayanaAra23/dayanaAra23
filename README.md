@@ -39,6 +39,9 @@ Here I share QA tips and also examples of test automation code and best practice
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 
+![Kibana](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
+
 ## 📌 QA Shots content
 **Quality Culture**
 - 🔍 [Bug Review - Let's learn with bugs](https://github.com/dayanaAra23/QAShots/blob/main/QAShots/bugReviewMEeting/README.md)
