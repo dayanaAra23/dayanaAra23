@@ -5,7 +5,6 @@ Here I share QA tips and also examples of test automation code and best practice
   [QAShots](https://github.com/dayanaAra23/QAShots)
 
 🌟 Frameworks, technologies and Tools:
-# 🛠️ Tech Stack
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
