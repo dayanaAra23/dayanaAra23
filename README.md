@@ -37,7 +37,5 @@ Here I share QA tips and also examples of test automation code and best practice
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 
-[WCAG](https://img.shields.io/badge/-WCAG-005A9C?logo=w3c&logoColor=white)
-
 
 💡 Passionate about quality, learning, and helping teams build better software!
