@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 Here I share QA tips and also examples of test automation code and best practices  
   [QAShots](https://github.com/dayanaAra23/QAShots)
 
-🌟 # Frameworks, technologies and tools:
+🌟 **Frameworks, technologies and tools**:
 
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
