@@ -21,6 +21,7 @@ Here I share QA tips and also examples of test automation code and best practice
 ![TestRail](https://img.shields.io/badge/-TestRail-00A82D?logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
@@ -47,6 +48,11 @@ Here I share QA tips and also examples of test automation code and best practice
 
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?logo=anthropic&logoColor=white)
+
+![Axe](https://img.shields.io/badge/-Axe-000000?logo=axe&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/-Lighthouse-000000?logo=lighthouse&logoColor=white)
+![WAVE](https://img.shields.io/badge/-WAVE-000000?logo=webaccessibility&logoColor=white)
+![NVDA](https://img.shields.io/badge/-NVDA-000000?logo=nvda&logoColor=white)
 
 ## 📌 QA Shots content
 **Quality Culture**
