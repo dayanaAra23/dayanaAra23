@@ -42,6 +42,12 @@ Here I share QA tips and also examples of test automation code and best practice
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/-Bruno-000000?logo=bruno&logoColor=white)
+
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?logo=anthropic&logoColor=white)
+
 ## 📌 QA Shots content
 **Quality Culture**
 - 🔍 [Bug Review - Let's learn with bugs](https://github.com/dayanaAra23/QAShots/blob/main/QAShots/bugReviewMEeting/README.md)
