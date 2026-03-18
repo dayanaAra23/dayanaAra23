@@ -52,5 +52,6 @@ Here I share QA tips and also examples of test automation code and best practice
 
 **Test Automation**
 - 🔍 [Test Automation - Rethinking Our Test Automation Strategy for a Legacy and Crucial Software](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/replacingIneficientSuite)
+- 🔍 [Test Automation Strategy - Where to start?](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/testAutomationStrategyRecipe)
 
 👉 [Reach me out on Linkedin](https://www.linkedin.com/in/dayana-araujo-0b84b550/)
