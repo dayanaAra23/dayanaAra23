@@ -58,6 +58,7 @@ Here I share QA tips and also examples of test automation code and best practice
 **Quality Culture**
 - 🔍 [Bug Review - Let's learn with bugs](https://github.com/dayanaAra23/QAShots/blob/main/QAShots/bugReviewMEeting/README.md)
 - 🔍 [TestFest - Increasing collaboration and knowledge by testing](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/testFest)
+- 🔍 [Quality Metrics - Quality Metrics That Matter!](https://github.com/dayanaAra23/QAShots/blob/main/QAShots/qualityMetrics)
 
 **Testing**
 - 🔍 [Exploratory/Functional API Validation](https://github.com/dayanaAra23/QAShots/tree/main/QAShots/apiValidation)
